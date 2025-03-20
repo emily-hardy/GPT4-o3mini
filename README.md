@@ -1,5 +1,5 @@
-# GPT4-o3mini
-<H2>Experiments with LLMs: Open AI's Chat GPT4.0 - o3 mini</H2>
+# LLM Experiment: Follow My Instructions
+<H3>Experiment with LLM: Open AI's Chat GPT4.0 - o3 mini</H3>
 
 <p>In this fun little experiment, I asked an LLM to play a game with me, and I tried to trick it. I speicified rules and split the experiement up into different rounds. 
 
